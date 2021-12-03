@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x49c30742ceff39c4df9e878641c5f3a7a0cc0130",
+  "SCAN_LINK": "https://polygonscan.com/token/0x49c30742ceff39c4df9e878641c5f3a7a0cc0130",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "POLYANTS",
+  "SYMBOL": "ANT",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 11000000000000000000,
+  "DISPLAY_COST": 11,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polants",
+  "SHOW_BACKGROUND": true
+}
